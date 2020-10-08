@@ -117,8 +117,13 @@
               "devServerTarget": "PWA-workshop:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "PWA-workshop"
 }
