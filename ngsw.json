@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602161393331,
+  "timestamp": 1602162777600,
   "index": "/PWA-workshop/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/PWA-workshop/favicon.ico",
         "/PWA-workshop/index.html",
-        "/PWA-workshop/main.b2b4e4a273116fd73485.js",
+        "/PWA-workshop/main.4337881bad2e1963704f.js",
         "/PWA-workshop/manifest.webmanifest",
         "/PWA-workshop/polyfills.35a5ca1855eb057f016a.js",
         "/PWA-workshop/runtime.acf0dec4155e77772545.js",
@@ -52,8 +52,8 @@
     "/PWA-workshop/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/PWA-workshop/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/PWA-workshop/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/PWA-workshop/index.html": "65d3495fd1db85c376192e5673789946f272bafb",
-    "/PWA-workshop/main.b2b4e4a273116fd73485.js": "090bebf9c1ecbf96f04c745bad5fc91ed53cbd54",
+    "/PWA-workshop/index.html": "ad7adccaccf6ddc734e6440fd08d8c50024d18fd",
+    "/PWA-workshop/main.4337881bad2e1963704f.js": "40c44bafb4c138b231d6de88cee97bf289316c4f",
     "/PWA-workshop/manifest.webmanifest": "6554c3b2a10ab0cab20c24354b6c134173bae1d5",
     "/PWA-workshop/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/PWA-workshop/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
